@@ -1,0 +1,10 @@
+﻿  c_class5.c
+C:\Users\ericc\source\repos\c_class5\c_class5\c_class5.c(14,10): warning C4477: 'scanf_s' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  C:\Users\ericc\source\repos\c_class5\c_class5\c_class5.c(14,10):
+  서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\ericc\source\repos\c_class5\c_class5\c_class5.c(18,10): warning C4477: 'scanf_s' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'long double *'입니다.
+  C:\Users\ericc\source\repos\c_class5\c_class5\c_class5.c(18,10):
+  서식 문자열에서 '%Lf'을(를) 사용하는 것이 좋습니다.
+  
+  c_class5.vcxproj -> C:\Users\ericc\source\repos\c_class5\x64\Debug\c_class5.exe
